@@ -4,7 +4,7 @@
   "autor": "Cassio Reis Barbosa",
   "scripts": {
     "build": "webpack",
-    "dev": "webpack serve",
+    "dev": "webpack server",
     "server": "json-server --watch server.json --port 3333"
   },
   "dependencies": {
